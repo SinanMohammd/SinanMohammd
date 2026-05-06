@@ -50,5 +50,5 @@ Python | Java | SQL | Odoo | Networking | Virtualization | Cloud | Cybersecurity
 ---
 
 ### Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/sinan-mohammed/]
-- Portfolio: [https://sinanm-portfolio.netlify.app/]
+- [LinkedIn Profile](https://www.linkedin.com/in/sinan-mohammed/)
+- [Portfolio Website](https://sinanm-portfolio.netlify.app/)
