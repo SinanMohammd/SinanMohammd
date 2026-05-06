@@ -15,11 +15,11 @@ BE Computer Science (2021–2025)
 ---
 
 ### Experience
-**ERP & Data Management Intern — Elfit Arabia**
+**ERP & Data Management Intern — Elfit Arabia** *(Jan 2025 – Jul 2025)*
 - Supported ERP migration from on-premise to Odoo Cloud
 - Bulk data uploads, system troubleshooting, workflow optimization
 
-**Operational Technology Intern — PepsiCo**
+**Operational Technology Intern — PepsiCo** *(Jun 2023 – Aug 2023)*
 - Managed VMs using Nutanix
 - Backup & recovery operations
 - Network troubleshooting and switch configuration
