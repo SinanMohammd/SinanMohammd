@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Sinan Mohammed 👋
 
-<!--
-**SinanMohammd/SinanMohammd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## MSc Cybersecurity Student @ University of Liverpool  
+Computer Science graduate from BITS Pilani Dubai with hands-on experience in IT infrastructure, ERP systems, cloud operations, and cybersecurity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+**University of Liverpool**  
+MSc Cybersecurity (2025–2026)
+
+**BITS Pilani, Dubai**  
+BE Computer Science (2021–2025)
+
+---
+
+### Experience
+**ERP & Data Management Intern — Elfit Arabia**
+- Supported ERP migration from on-premise to Odoo Cloud
+- Bulk data uploads, system troubleshooting, workflow optimization
+
+**Operational Technology Intern — PepsiCo**
+- Managed VMs using Nutanix
+- Backup & recovery operations
+- Network troubleshooting and switch configuration
+
+---
+
+### Featured Projects
+**Machine Learning Automated Irrigation System**
+- AWS IoT Core, Raspberry Pi, MQTT
+- Random Forest Regression model
+
+**Neural Network Based Cryptographic Mechanism**
+- Explored ML applications in cryptography
+- Compared against traditional techniques like AES
+
+---
+
+### Technical Skills
+Python | Java | SQL | Odoo | Networking | Virtualization | Cloud | Cybersecurity Fundamentals
+
+---
+
+### Certifications
+- IBM Cybersecurity Fundamentals
+- IBM IT Fundamentals
+- IBM Cloud Computing Fundamentals
+
+---
+
+### Connect With Me
+- LinkedIn: [https://www.linkedin.com/in/sinan-mohammed/]
+- Portfolio: [https://sinanm-portfolio.netlify.app/]
